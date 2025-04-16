@@ -1,2 +1,2 @@
 # log-analyzer-python
-Simple Python log parser to detect failed login attempts
+Python script that scans logs for brute-force login attempts
