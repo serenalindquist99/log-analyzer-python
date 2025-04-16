@@ -16,3 +16,6 @@ If found, it flags the line as suspicious activity.
 1. Save the files to a folder  
 2. Open terminal or command prompt  
 3. Run: `python log_parser.py`
+
+## 🆕 Additional Scripts:
+- `log_brute_force_detector.py`: Flags IPs with 3+ failed logins and writes alerts to a file (`alerts.txt`)
